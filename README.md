@@ -1,2 +1,4 @@
-# hello-world
-just one repository
+# hello-human
+
+a little bit of sugar
+kind like a normal person
